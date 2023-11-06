@@ -4,7 +4,7 @@
 
 - estou aprendendo a linguagem java script na plataforma
 
-
+![](https://media.tenor.com/UHqZCx1Jrc4AAAAM/milk-mocha.gif)
    
 
  
